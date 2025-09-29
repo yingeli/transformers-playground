@@ -11,6 +11,7 @@ RUN apt-get update && \
     git-lfs \
     jq \
     locales \
+    nano \
     sudo \
     && rm -rf /var/lib/apt/lists/*
 
